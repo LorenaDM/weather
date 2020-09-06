@@ -1,4 +1,4 @@
-# weather
+# Weather
 My first project entirely in English. 
 Jointly developed @DevEd from: https: //youtu.be/wPElVpR1rwA
 
